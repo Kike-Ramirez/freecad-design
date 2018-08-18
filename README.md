@@ -2,9 +2,9 @@
 
 ## 1. DHT22+nodeMCU **IOT Node + Sensor temperature**.
 
-![nodeMCU](/home/kike/Documentos/freecad-design/nodeMCU_TempSensor/images/nodeMCU.png)
+![nodeMCU](images/nodeMCU.png)
 
-![DHT22](/home/kike/Documentos/freecad-design/nodeMCU_TempSensor/images/dht22.png)
+![DHT22](images/dht22.png)
 
 
 
